@@ -1,4 +1,4 @@
-
+#TESTE FD
 let nome = "O Grande Bigue ";
 let XP = 7500;
 console.log (nome + "tem o xp de " + XP)
